@@ -1,0 +1,72 @@
+[
+  {
+    "awayId": 2714,
+    "awayName": "SSC Napoli",
+    "categoryId": 31,
+    "categoryName": "Italy",
+    "homeId": 2696,
+    "homeName": "Torino FC",
+    "matchDate": "2021-04-26 18:30:00",
+    "matchId": 23391203,
+    "sportId": 1,
+    "sportName": "Soccer",
+    "tournamentId": 33,
+    "tournamentName": "Serie A"
+  },
+  {
+    "awayId": 2692,
+    "awayName": "AC Milan",
+    "categoryId": 31,
+    "categoryName": "Italy",
+    "homeId": 2699,
+    "homeName": "Lazio Roma FC",
+    "matchDate": "2021-04-26 20:45:00",
+    "matchId": 23391209,
+    "sportId": 1,
+    "sportName": "Soccer",
+    "tournamentId": 33,
+    "tournamentName": "Serie A"
+  },
+  {
+    "awayId": 2717,
+    "awayName": "AS Cittadella",
+    "categoryId": 31,
+    "categoryName": "Italy",
+    "homeId": 2689,
+    "homeName": "US Lecce",
+    "matchDate": "2021-05-01 14:00:00",
+    "matchId": 26935850,
+    "sportId": 1,
+    "sportName": "Soccer",
+    "tournamentId": 34,
+    "tournamentName": "Serie B"
+  },
+  {
+    "awayId": 43,
+    "awayName": "Fulham FC",
+    "categoryId": 1,
+    "categoryName": "England",
+    "homeId": 38,
+    "homeName": "Chelsea FC",
+    "matchDate": "2021-05-01 18:30:00",
+    "matchId": 23204455,
+    "sportId": 1,
+    "sportName": "Soccer",
+    "tournamentId": 1,
+    "tournamentName": "Premier League"
+  },
+  {
+    "awayId": 40,
+    "awayName": "Aston Villa FC",
+    "categoryId": 1,
+    "categoryName": "England",
+    "homeId": 48,
+    "homeName": "Everton FC",
+    "matchDate": "2021-05-01 21:00:00",
+    "matchId": 23204451,
+    "sportId": 1,
+    "sportName": "Soccer",
+    "tournamentId": 1,
+    "tournamentName": "Premier League"
+  }
+]
